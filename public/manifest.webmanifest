@@ -1,0 +1,16 @@
+{
+  "name": "Sylvie + Elias Idea Generator",
+  "short_name": "Idea Generator",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3eef8",
+  "theme_color": "#7d6eea",
+  "description": "A calm, private mobile app for sensory play, outdoor activities, and family routines.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
